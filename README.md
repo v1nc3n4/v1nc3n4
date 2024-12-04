@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-I am a software engineer since 2002, focused on delivering maintainable, efficient, elegant software, in the long-term.
+I am a software engineer since 2002, focused on building maintainable, efficient, and elegant software, in the long-term.
 
 My everyday concepts/practices are: OOP, DDD, clean architecture, clean code, continuous refactoring, sustainable design, DevOps. I also take a lot of fun working with event-driven/microservice architectures, reactive programming, serverless technologies, containers, IaC.
 
