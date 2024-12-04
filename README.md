@@ -1,12 +1,15 @@
 ## Hi there! :wave:
 
-I am a software engineer since 2002, focused on delivering maintainable, efficient, elegant software, in the long-term. To achieve these goals, I rely on the following concepts and practices:
-OOP, DDD, clean architecture, clean code, continuous refactoring, event-driven/microservice architectures, reactive programming, serverless technologies, containers, IaC, DevOps practices.
+I am a software engineer since 2002, focused on delivering maintainable, efficient, elegant software, in the long-term.
 
-My favorite technologies are:
-- Java/[Spring Boot][spring-boot] ([Webflux][spring-framework-webflux]/[Reactor][reactor], [MVC][spring-framework-mvc]), [Typescript][typescript] ([Angular][angular], [RxJs][rxjs]), embracing reactive programming and optimal usage of system resources.
+My everyday concepts/practices are: OOP, DDD, clean architecture, clean code, continuous refactoring, sustainable design, DevOps. I also take a lot of fun working with event-driven/microservice architectures, reactive programming, serverless technologies, containers, IaC.
+
+My main skill is the building of web applications using:
+- Java/[Spring Boot][spring-boot] ([Webflux][spring-framework-webflux]/[Reactor][reactor], [MVC][spring-framework-mvc]), [Angular][angular] ([Typescript][typescript], [RxJs][rxjs]), embracing reactive programming and optimal usage of system resources.
 - SQL, NoSQL, asynchronous communications.
-- [Terraform][terraform], [Serverless framework][serverless-framework], and the [AWS][aws] cloud.
+- [Terraform][terraform], [Serverless framework][serverless-framework], and the [AWS][aws] cloud (I am a certified Solutions Architect Associate 2024-2027).
+
+Looking forward to building great things together! :handshake:
 
 [angular]: <https://angular.dev/>
 [aws]: <https://aws.amazon.com/>
